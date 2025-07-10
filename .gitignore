@@ -1,0 +1,12 @@
+# Ignore R configs
+.Renviron
+.Rhistory
+.Rproj.user/
+
+# Ignore temporary/output files
+*.xml
+*.csv
+*.tsv
+*.rds
+*.log
+*.tmp
