@@ -1,5 +1,16 @@
 # 🧬 Gene Annotation Integration
 
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![API Integration](https://img.shields.io/badge/API%20Integration-4AB197?style=flat-square&logo=linktree&logoColor=white)
+![biomaRt](https://img.shields.io/badge/biomaRt-3366CC?style=flat-square&logo=r&logoColor=white)
+![httr](https://img.shields.io/badge/httr-1462A6?style=flat-square&logo=r&logoColor=white)
+![jsonlite](https://img.shields.io/badge/jsonlite-6F42C1?style=flat-square&logo=json&logoColor=white)
+![RMySQL](https://img.shields.io/badge/RMySQL-00758F?style=flat-square&logo=database&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![License: MIT](https://img.shields.io/badge/License-MIT-green?style=flat-square)
+
 This project was developed for the *Biological Databases* course (MSc Bioinformatics, University of Edinburgh) in 2024. It integrates gene annotation data from multiple biological databases into a local MySQL database using an R script.
 
 ## Description
